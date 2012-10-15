@@ -1,4 +1,14 @@
 c3284d-virus-cleaner
 ====================
 
-c3284d virus cleaner
+mk_viruscleaner.py Downlaod your server.
+
+Run Virus cleaner:
+======
+
+python mk_viruscleaner.py
+
+
+
+
+Requirements: Python
